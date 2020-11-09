@@ -1,5 +1,5 @@
-import bookStoreService from './bookstore-service';
+import BookStoreService from './bookstore-service';
 
 export {
-    bookStoreService
+    BookStoreService
 };
